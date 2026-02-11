@@ -2,4 +2,5 @@
 login page
 new versions
 <br>
-rizu-author
+rizu-author(rizu)
+<p>alpha knowledge</p>
